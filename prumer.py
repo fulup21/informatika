@@ -1,6 +1,6 @@
 import sys
 
-cislo = sys.argv
+cislo = sys.argv[1:]
 total = 0
 #print(cislo)
 pocetcisel = 0
