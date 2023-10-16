@@ -4,7 +4,7 @@ cislo = sys.argv[1:]
 total = 0
 #print(cislo)
 pocetcisel = 0
-
+#ahoj
 for e in cislo:
     try:
         #print(e)
