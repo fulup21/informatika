@@ -1,5 +1,5 @@
 import sys
-#kundo
+#lets go
 cislo = sys.argv[1:]
 total = 0
 #print(cislo)
