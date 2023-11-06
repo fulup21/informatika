@@ -2,5 +2,6 @@
 #ahoj
 
 Demo git pull konflikt, rebase nebo merge
- cus
-hello
+#cus
+#hello
+#svaty rebase
