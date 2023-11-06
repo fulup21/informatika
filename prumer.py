@@ -13,5 +13,7 @@ for e in cislo:
     except:
         print(f' {e} neni cele cislo!!!!!')
 
-
+print(total)
+print(pocetcisel)
 print(f'Prumer je {total/pocetcisel}')
+#miluju rebase 
